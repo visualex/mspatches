@@ -13,6 +13,7 @@ live audio processing tools
   megaverb gen
   convolution gen 
   frequency range gen  
+  reverserb
 * distortion
   port valve distortion from VST to MSP 
   frequency range 
