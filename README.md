@@ -9,8 +9,13 @@ live audio processing tools
 
 ### TODO
 * ? delay-1 port to M4L 
-* megaverb
-* port valve distortion from VST to MSP 
+* reverbs
+  megaverb gen
+  convolution gen 
+  frequency range gen  
+* distortion
+  port valve distortion from VST to MSP 
+  frequency range 
 * tape delay
 * 3D delay 
 * FM synth 
