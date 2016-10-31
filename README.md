@@ -19,4 +19,9 @@ live audio processing tools
   * frequency range 
 * tape delay
 * 3D delay 
-* FM synth 
+* synths 
+  * grann
+  * fm
+* seq 
+  * sq1 port
+  
