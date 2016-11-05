@@ -8,6 +8,7 @@ live audio processing tools
 
 
 ### TODO
+* gens to audio unit
 * ? delay-1 port to M4L 
 * reverbs
   * megaverb gen
