@@ -15,6 +15,7 @@ live audio processing tools
   * convolution gen 
   * frequency range gen  
   * reverserb
+  * pingpong
 * distortion
   * port valve distortion from VST to MSP 
   * frequency range 
